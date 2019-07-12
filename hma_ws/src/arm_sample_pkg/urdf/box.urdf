@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<robot name="sample_box">
+  <material name="blue">
+    <color rgba="0.0 0.0 1.0 1.0"/>
+  </material>
+  <link name="name_link"/>
+
+  <link name="body_link">
+    <visual>
+      <geometry>
+        <box size="0.500 0.500 1.200"/>
+      </geometry>
+      <material name="blue"/>
+    </visual>
+  </link>
+  <joint name="body_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="body_link"/>
+  </joint>
+  <gazebo reference="base_link">
+    <selfCollide>true</selfCollide>
+     <mu1 value="0.05" />
+    <mu2 value="0.05" />
+    <material>Gazebo/Blue</material>
+  </gazebo>
+</robot>

@@ -1,0 +1,8 @@
+prefix=/home/tokunoshoshi/ros_ws/hma_ws/install
+
+Name: arm_sample_pkg
+Description: Description of arm_sample_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tokunoshoshi/ros_ws/hma_ws/install/lib 
+Requires: message_runtime

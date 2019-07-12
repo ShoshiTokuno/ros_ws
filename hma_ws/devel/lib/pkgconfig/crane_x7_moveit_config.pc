@@ -1,0 +1,8 @@
+prefix=/home/tokunoshoshi/ros_ws/hma_ws/devel
+
+Name: crane_x7_moveit_config
+Description: Description of crane_x7_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/tokunoshoshi/ros_ws/hma_ws/devel/lib 
+Requires: 

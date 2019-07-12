@@ -1,0 +1,8 @@
+prefix=/home/tokunoshoshi/ros_ws/hma_ws/install
+
+Name: crane_x7_bringup
+Description: Description of crane_x7_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tokunoshoshi/ros_ws/hma_ws/install/lib 
+Requires: 

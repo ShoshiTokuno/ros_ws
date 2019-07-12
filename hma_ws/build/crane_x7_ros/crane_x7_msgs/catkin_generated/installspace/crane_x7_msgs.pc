@@ -1,0 +1,8 @@
+prefix=/home/tokunoshoshi/ros_ws/hma_ws/install
+
+Name: crane_x7_msgs
+Description: Description of crane_x7_msgs
+Version: 0.0.1
+Cflags: -I/home/tokunoshoshi/ros_ws/hma_ws/install/include
+Libs: -L/home/tokunoshoshi/ros_ws/hma_ws/install/lib 
+Requires: 

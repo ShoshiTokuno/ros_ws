@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="tf" type="static_transform_publisher" name="link2_broadcaster" args="1 0 0 0 0 0 link2 link3 100" />
+  <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster" args="1 1 0 0 0 0 link1 link2 100" />
+</launch>

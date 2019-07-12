@@ -1,0 +1,2 @@
+arm_sample_pkg:crane_x7_ros/crane_x7:crane_x7_ros/crane_x7_bringup:crane_x7_ros/crane_x7_control:crane_x7_ros/crane_x7_description:crane_x7_ros/crane_x7_examples:crane_x7_ros/crane_x7_gazebo:crane_x7_ros/crane_x7_moveit_config:crane_x7_ros/crane_x7_msgs:roboticsgroup_gazebo_plugins
+-DCATKIN_DEVEL_PREFIX=/home/tokunoshoshi/ros_ws/hma_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tokunoshoshi/ros_ws/hma_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+set(lecture_pkg_MESSAGE_FILES "msg/DoDishesAction.msg;msg/DoDishesActionGoal.msg;msg/DoDishesActionResult.msg;msg/DoDishesActionFeedback.msg;msg/DoDishesGoal.msg;msg/DoDishesResult.msg;msg/DoDishesFeedback.msg;msg/FibonacciAction.msg;msg/FibonacciActionGoal.msg;msg/FibonacciActionResult.msg;msg/FibonacciActionFeedback.msg;msg/FibonacciGoal.msg;msg/FibonacciResult.msg;msg/FibonacciFeedback.msg")
+set(lecture_pkg_SERVICE_FILES "")

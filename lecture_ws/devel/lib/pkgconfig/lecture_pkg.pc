@@ -1,0 +1,8 @@
+prefix=/home/tokunoshoshi/ros_ws/lecture_ws/devel
+
+Name: lecture_pkg
+Description: Description of lecture_pkg
+Version: 0.0.0
+Cflags: -I/home/tokunoshoshi/ros_ws/lecture_ws/devel/include
+Libs: -L/home/tokunoshoshi/ros_ws/lecture_ws/devel/lib 
+Requires: actionlib_msgs

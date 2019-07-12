@@ -1,0 +1,8 @@
+prefix=/home/tokunoshoshi/ros_ws/hma_ws/install
+
+Name: crane_x7_examples
+Description: Description of crane_x7_examples
+Version: 0.0.0
+Cflags: -I/home/tokunoshoshi/ros_ws/hma_ws/install/include
+Libs: -L/home/tokunoshoshi/ros_ws/hma_ws/install/lib 
+Requires: message_runtime
